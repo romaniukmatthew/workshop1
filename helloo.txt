@@ -1,1 +1,1 @@
-hello from other branch!
+hello from branch 2!
